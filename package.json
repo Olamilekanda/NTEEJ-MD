@@ -78,10 +78,5 @@
     "bugs": {
         "url": "https://github.com/Ntee-j01/NTEEJ-MD/issues"
     },
-    {
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
-},
     "homepage": "https://github.com/Ntee-j01/NTEEJ-MD#readme"
 }
